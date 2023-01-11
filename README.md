@@ -16,3 +16,6 @@
 Dans mes projets passés, j'ai travaillé en étroite collaboration avec des équipes de développeurs et de designers pour créer des applications web de qualité. J'ai hâte de continuer à développer mes compétences et de travailler sur des projets passionnants !
  
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+
+
+<a href="https://app.daily.dev/dovah"><img src="https://api.daily.dev/devcards/9f2173dcaa754a28aa4e5735bb779f12.png?r=tp2" width="400" alt="BRAZILLIER Johan's Dev Card"/></a>
