@@ -9,11 +9,12 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  
-## Qui suis-je ?
+## Who am I ?
  
-👋 En tant que développeur React TypeScript & WordPress, je suis passionné par la création d'interfaces utilisateur interactives et réactives pour les applications web. J'ai une solide expérience dans la construction d'applications performantes et fiables.
- 
-Dans mes projets passés, j'ai travaillé en étroite collaboration avec des équipes de développeurs et de designers pour créer des applications web de qualité. J'ai hâte de continuer à développer mes compétences et de travailler sur des projets passionnants !
+Hi there! I'm a frontend web developer specializing in TypeScript, React, and Tailwind. I'm passionate about creating interactive and responsive user interfaces for web applications, and I have a proven track record of building high-performance and reliable applications.
+
+In my past projects, I've worked closely with developers and design teams to create high-quality web applications. I'm eager to continue developing my skills and work on exciting projects!
+
  
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
