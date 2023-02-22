@@ -19,4 +19,4 @@ In my past projects, I've worked closely with developers and design teams to cre
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 
-<a href="https://app.daily.dev/dovah"><img src="https://api.daily.dev/devcards/9f2173dcaa754a28aa4e5735bb779f12.png?r=tp2" width="200" alt="BRAZILLIER Johan's Dev Card"/></a>
+<a href="https://app.daily.dev/dovah"><img src="https://api.daily.dev/devcards/9f2173dcaa754a28aa4e5735bb779f12.png?r=tp2" width="300" alt="BRAZILLIER Johan's Dev Card"/></a>
