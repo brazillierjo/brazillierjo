@@ -11,12 +11,8 @@
  
 ## Who am I ?
  
-Hi there! I'm a frontend web developer specializing in TypeScript, React, and Tailwind. I'm passionate about creating interactive and responsive user interfaces for web applications, and I have a proven track record of building high-performance and reliable applications.
+Hi there! I'm a frontend web developer specializing in TypeScript, React and Tailwind. I'm passionate about creating interactive and responsive user interfaces for web applications, and I have a proven track record of building high-performance and reliable applications.
 
 In my past projects, I've worked closely with developers and design teams to create high-quality web applications. I'm eager to continue developing my skills and work on exciting projects!
-
- 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-
 
 <a href="https://app.daily.dev/dovah"><img src="https://api.daily.dev/devcards/9f2173dcaa754a28aa4e5735bb779f12.png?r=tp2" width="300" alt="BRAZILLIER Johan's Dev Card"/></a>
