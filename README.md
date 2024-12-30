@@ -8,11 +8,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-%23117AC9.svg?style=for-the-badge&logo=Nuxt&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-%23117AC9.svg?style=for-the-badge&logo=VueJS&logoColor=white)
  
 ## Who am I ?
  
-Hi there! I'm a frontend web developer specializing in TypeScript, React and Tailwind. I'm passionate about creating interactive and responsive user interfaces for web applications, and I have a proven track record of building high-performance and reliable applications.
+Hi there! I'm a frontend web developer specializing in TypeScript, Nuxt, Next.js and Tailwind. I'm passionate about creating interactive and responsive user interfaces for web applications, and I have a proven track record of building high-performance and reliable applications.
 
 In my past projects, I've worked closely with developers and design teams to create high-quality web applications. I'm eager to continue developing my skills and work on exciting projects!
 
