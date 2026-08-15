@@ -25,7 +25,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
  
 ## Who am I ?
  
@@ -36,7 +38,7 @@ Specializing in the **TypeScript** ecosystem, I build fluid user experiences acr
 * **Mobile:** React Native and Expo — apps shipped to the App Store & Play Store (EAS), with RevenueCat subscriptions.
 * **Styling:** TailwindCSS, NativeWind and Framer Motion.
 * **Backend & Data:** Node.js, Bun, Hono, Express, GraphQL, Prisma, PostgreSQL, Supabase, Firebase, Turso and Stripe.
-* **AI integrations:** Google Gemini (incl. real-time voice with Gemini Live), OpenAI and Mistral AI — from chat features to embeddings-based matching.
+* **AI integrations:** Google Gemini (incl. real-time voice with Gemini Live), OpenAI/GPT, Claude, Mistral AI and DeepSeek — from chat features to embeddings-based matching.
 * **DevOps:** Docker, Turborepo monorepos, GitHub Actions CI/CD and self-hosted VPS (Caddy).
 
 I focus on maintaining clean code and efficient architecture. Open to mobility and new exciting projects!
